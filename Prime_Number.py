@@ -1,3 +1,4 @@
+##This is a sample program to check the number is prime number or odd number
 uservalue = input("Enter a value to check whether it is even or odd:")
 value = uservalue%2
 #print value
