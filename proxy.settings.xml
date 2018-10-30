@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="165.225.104.39" />
+    <option name="PROXY_PORT" value="10015" />
+    <option name="PROXY_EXCEPTIONS" value="*.appium.io,appium.io*" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="http://pac.zscalertwo.net/philips.com/global-pac.pac" />
+  </component>
+</application>
