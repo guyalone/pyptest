@@ -1,5 +1,6 @@
 <application>
   <component name="HttpConfigurable">
+    <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="165.225.104.39" />
     <option name="PROXY_PORT" value="10015" />
     <option name="PROXY_EXCEPTIONS" value="*.appium.io,appium.io*" />
