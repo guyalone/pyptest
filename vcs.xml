@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/guyalone/pyptest" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://tfsemea1.ta.philips.com:22/tfs/TPC_Region24/Vitaskin%20Release%20Train/_git/Automation_ApiumStudio_POC" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\310246852\Documents\GitHub\pyptest" />
