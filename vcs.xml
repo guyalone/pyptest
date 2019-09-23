@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/pallipavan/TestAutomation" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/johnmiles/Automated-Testing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\310246852\Documents\GitHub\TestAutomation" />
